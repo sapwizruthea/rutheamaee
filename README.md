@@ -32,7 +32,7 @@
         <div class="skills">
             <hr>
             <h3>Skills</h3>
-            <p> Computer Literate <span">&#11088;&#11088; </p>
+            <p> Computer Literate ">&#11088;&#11088; </p>
             <p>Editing <span style="position:absolute; left: 130px;"> &#11088;&#11088; </span> </p>
             <p>Photoshop <span style="position:absolute; left: 130px;"> &#11088;&#11088;&#11088;</span></p>
         </div>
